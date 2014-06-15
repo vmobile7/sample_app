@@ -18,7 +18,7 @@ group :production do
 end
 
 group :development, :test do
-    gem "rspec-rails"
+    gem "rspec-rails", "2.13.1"
     gem "sqlite3"
     gem "pry-rails"
     gem "pry-debugger"
@@ -27,6 +27,6 @@ group :development, :test do
 end
 
 group :test do
-    gem "selenium-webdriver"
-    gem "capybara"
+    gem "selenium-webdriver", "2.35.1"
+    gem "capybara", "2.1.0"
 end
