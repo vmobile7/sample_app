@@ -12,4 +12,9 @@ FactoryGirl.define do
         end
     end
 
+    factory :micropost do
+        content "Logrem ipsum"
+        user
+    end
+
 end
