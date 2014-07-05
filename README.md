@@ -1,1 +1,1 @@
-# Ruby on Rails チュートリアル：サンプルアプリケーション(test)
+# Ruby on Rails チュートリアル：サンプルアプリケーション(test345)
